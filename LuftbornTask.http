@@ -1,0 +1,6 @@
+@LuftbornTask_HostAddress = http://localhost:5032
+
+GET {{LuftbornTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
